@@ -1,0 +1,3 @@
+[6304:8072:0320/003121.122:ERROR:device_event_log_impl.cc(214)] [00:31:21.121] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: Uno de los dispositivos conectados al sistema no funciona. (0x1F)
+[6304:8072:0320/014012.536:ERROR:network_service_instance_impl.cc(286)] Network service crashed, restarting service.
+[6304:8072:0320/014012.539:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: ", source: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js (1)
